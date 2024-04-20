@@ -11,7 +11,7 @@
 - 💻 Aspiring software engineer.
 - 🚀 Currently exploring **AI and Embedded Linux** .
 - 🎨 Familiar with frameworks like JavaFX and Qt.
-- 🔍 Enthusiastic problem-solver, constantly seeking solutions.
+
 
 
 ## 🛠 &nbsp;Tech Stack
